@@ -1,6 +1,5 @@
 // source @antfu/utils
 
-
 const isDef = (val) => typeof val !== "undefined";
 const isBoolean = (val) => typeof val === "boolean";
 const isFunction = (val) => typeof val === "function";
